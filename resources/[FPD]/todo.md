@@ -13,3 +13,4 @@
 (S) Create Movement Script In (pd_smallresources) crouching etc
 (T) Add Animtion Script
 (U) Create Functions Lib callouts realted (NPC Creating, NPC Running, NPC Shoot, NPC FIGHT/FLIGHT, and more shit that can be helpful)
+(V) Finish the backup menu (Add more make it more advacned) (pd_backup)
