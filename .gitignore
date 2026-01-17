@@ -1,0 +1,8 @@
+/cache
+/artifacts
+/resources/\[FPD\]/pd_callouts_manager/web/node_modules
+/resources/\[FPD\]/pd_clothing/web/node_modules
+/resources/\[FPD\]/pd_lib/web/node_modules
+/db
+.replxx_history
+/txData

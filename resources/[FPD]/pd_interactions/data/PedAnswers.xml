@@ -1,0 +1,3261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- STOP THE PED: Realistic Conversations Update V 2.0 by Original Xbox Museum --> 
+<PedAnswers>
+<Drinking question="Hello, I'm Officer ___ with the ___ Police Department."> <!-- 1st -->
+    <Positive>
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Officer?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Officer.</Answer>
+				<Answer>Hey, Officer.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Officer.</Answer>
+				<Answer>Hey there, Officer.</Answer>
+				<Answer>Hi there, Officer.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Officer?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there. What’s up, Officer??</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Officer, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Officer?</Answer>
+				<Answer>Hey, what’s up, Officer?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Officer?</Answer>
+				<Answer>Hello, what’s going on, Officer?</Answer>
+				<Answer>Hello Officer, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Officer, what’s up?</Answer>
+				<Answer>Hi there Officer, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Officer, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Officer, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Officer.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Officer.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Officer.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Officer, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Officer?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Officer?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Officer, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Officer?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Officer?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Officer, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Officer?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Officer?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Officer, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Officer, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Officer?</Answer>
+				<Answer>Hello Officer, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh, hello...</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>*COUGH* Hello.</Answer>
+				<Answer>Uh, hello Officer.</Answer>
+				<Answer>Uh...Yes?</Answer>
+				<Answer>*COUGH* *Silence.*</Answer>
+				<Answer>Uh, hello. What am I being stopped for, exactly?</Answer>
+				<Answer>Um, hello. What am I being stopped for, Officer?</Answer>
+				<Answer>Uh, hello Officer.</Answer>
+				<Answer>Uh, hello. What am I being stopped for, Officer?</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>Hi...</Answer>
+				<Answer>Um, hey.</Answer>
+				<Answer>Uh, hello there.</Answer>
+				<Answer>Hi there...</Answer>
+				<Answer>Hey there...</Answer>
+				<Answer>Uh, hello, sir.</Answer>
+				<Answer>Hello Officer...</Answer>
+				<Answer>Hey, Officer...</Answer>
+				<Answer>Uh, hello there, sir.</Answer>
+				<Answer>Hello there, Officer...</Answer>
+				<Answer>Hey there, Officer...</Answer>
+				<Answer>Hi there, Officer...</Answer>
+				<Answer>Uh, hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Officer...?</Answer>
+				<Answer>Hi there... What’s up?</Answer>
+				<Answer>Hey... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on?</Answer>
+				<Answer>Hi there... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on, Officer?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Hi... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hey there... What can I do for you?</Answer>
+				<Answer>Uh, hello Officer... What can I do for you?</Answer>
+				<Answer>Uh, hello there, Officer... What can I do for you?</Answer>
+				<Answer>Hey... What’s up, Officer?</Answer>
+				<Answer>Uh, hey Officer... What can I do for you?</Answer>
+				<Answer>Hey... What’s going on, Officer?</Answer>
+				<Answer>Hello... What’s going on, Officer?</Answer>
+				<Answer>Uh... Hey sir, what’s up?</Answer>
+				<Answer>Hey... What’s going on, sir?</Answer>
+				<Answer>Hey there, sir... What’s up?</Answer>
+				<Answer>Hey there, Officer... What’s up?</Answer>
+				<Answer>Hi there, Officer... What’s going on?</Answer>
+				<Answer>Hey, what’s going on, sir...? What can I do for you?</Answer>
+				<Answer>Hey there, sir... What’s up? What can I do for you?</Answer>
+				<Answer>Hey there, Officer... What’s up? What can I do for you?</Answer>
+				<Answer>Hi there, Officer... What’s going on? What can I do for you?</Answer>
+				<Answer>Uh, hey Officer...</Answer>
+				<Answer>Um... Hey sir...</Answer>
+				<Answer>Hello Officer...?</Answer>
+				<Answer>Uh... Hi sir...</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Officer?</Answer>
+				<Answer>Um, what can I do for you, sir...?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hey Officer... What can I do for you?</Answer>
+				<Answer>Hey sir... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hi there, Officer... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Uh... Hello Officer... What can I do for you?</Answer>
+				<Answer>Hello, sir... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you, sir?</Answer>
+				<Answer>Uh... What can I do for you, Officer?</Answer>
+				<Answer>Hey there... What can I do for you, sir?</Answer>
+				<Answer>Hey there, Officer... What can I do for you?</Answer>
+				<Answer>Uh... Is everything alright?</Answer>
+				<Answer>Is everything alright, Officer...?</Answer>
+				<Answer>Uh... Is everything alright, sir?</Answer>
+				<Answer>Hey... Is everything alright?</Answer>
+				<Answer>Hey Officer... Is everything alright?</Answer>
+				<Answer>Hey sir... Is everything alright?</Answer>
+				<Answer>Hi there... Is everything alright?</Answer>
+				<Answer>Hi there, Officer... Is everything alright?</Answer>
+				<Answer>Hello there... Is everything alright?</Answer>
+				<Answer>Uh... Hello Officer... Is everything alright?</Answer>
+				<Answer>Hello sir... Is everything alright?</Answer>
+				<Answer>Uh, hey. Did I do something?</Answer>
+				<Answer>What’s this about?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>Yeah?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Officer?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>What do you sir, sir?</Answer>
+				<Answer>What do you sir, Officer?</Answer>
+				<Answer>Yeah? What do you need?</Answer>
+				<Answer>Yeah? What do you need, sir?</Answer>
+				<Answer>Yeah? What do you need, Officer?</Answer>
+				<Answer>Yeah? What do you want?</Answer>
+				<Answer>Yeah? What do you want, sir?</Answer>
+				<Answer>Yeah? What do you want, Officer?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Officer?</Answer>
+				<Answer>What am I being stopped for, exactly?</Answer>
+				<Answer>What am I being stopped for, Officer?</Answer>
+				<Answer>Why am I being stopped Officer?</Answer>
+				<Answer>Whatever man. Can you just tell me why you stopped me?</Answer>
+				<Answer>Yes?</Answer>
+				<Answer>Hello, "ociffer sir".</Answer>
+				<Answer>Whatever. Why did you stop me?</Answer>
+				<Answer>Whatever. Why the hell did you stop me?</Answer>
+				<Answer>Yeah? What the hell do you want?</Answer>
+				<Answer>What do you want now?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you want, Officer?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>Yeah? What do you need now?</Answer>
+				<Answer>Yeah? What’s your problem, sir?</Answer>
+				<Answer>Yeah? What do you want, Officer?</Answer>
+				<Answer>Yeah? What do you want now?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What do you want, Officer?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Officer?</Answer>
+				<Answer>What the hell is it now?</Answer>
+				<Answer>What the hell do you need?</Answer>
+				<Answer>What the hell is your problem?</Answer>
+				<Answer>What the hell do you want, Officer?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What the hell is going on here?</Answer>
+				<Answer>What the hell do you need, Officer?</Answer>
+				<Answer>What the hell do you want from me?</Answer>
+				<Answer>What the hell is your deal, Officer?</Answer>
+				<Answer>What the hell is your problem, sir?</Answer>
+				<Answer>Why are you bothering me now?</Answer>
+				<Answer>Why are you bothering me, Officer?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Officer?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Officer?</Answer>
+				<Answer>Why are you bothering me, Officer?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Hello there.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Officer?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh... Yes?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Officer?</Answer>
+				<Answer>Um, what can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>What do you sir, Officer?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Officer?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Officer.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Officer?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Officer.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>		
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Officer?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Officer.</Answer>
+				<Answer>Hey, Officer.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Officer.</Answer>
+				<Answer>Hey there, Officer.</Answer>
+				<Answer>Hi there, Officer.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Officer?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there. What’s up, Officer??</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Officer, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Officer?</Answer>
+				<Answer>Hey, what’s up, Officer?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Officer?</Answer>
+				<Answer>Hello, what’s going on, Officer?</Answer>
+				<Answer>Hello Officer, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Officer, what’s up?</Answer>
+				<Answer>Hi there Officer, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Officer, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Officer, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Officer.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Officer.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Officer.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Officer, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Officer?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Officer?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Officer, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Officer?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Officer?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Officer, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Officer?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Officer?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Officer, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Officer, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Officer?</Answer>
+				<Answer>Hello Officer, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+    </Positive>
+    <Negative>
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Officer?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Officer.</Answer>
+				<Answer>Hey, Officer.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Officer.</Answer>
+				<Answer>Hey there, Officer.</Answer>
+				<Answer>Hi there, Officer.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Officer?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there. What’s up, Officer??</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Officer, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Officer?</Answer>
+				<Answer>Hey, what’s up, Officer?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Officer?</Answer>
+				<Answer>Hello, what’s going on, Officer?</Answer>
+				<Answer>Hello Officer, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Officer, what’s up?</Answer>
+				<Answer>Hi there Officer, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Officer, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Officer, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Officer.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Officer.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Officer.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Officer, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Officer?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Officer?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Officer, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Officer?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Officer?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Officer, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Officer?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Officer?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Officer, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Officer, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Officer?</Answer>
+				<Answer>Hello Officer, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh, hello...</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>*COUGH* Hello.</Answer>
+				<Answer>Uh, hello Officer.</Answer>
+				<Answer>Uh...Yes?</Answer>
+				<Answer>*COUGH* *Silence.*</Answer>
+				<Answer>Uh, hello. What am I being stopped for, exactly?</Answer>
+				<Answer>Um, hello. What am I being stopped for, Officer?</Answer>
+				<Answer>Uh, hello Officer.</Answer>
+				<Answer>Uh, hello. What am I being stopped for, Officer?</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>Hi...</Answer>
+				<Answer>Um, hey.</Answer>
+				<Answer>Uh, hello there.</Answer>
+				<Answer>Hi there...</Answer>
+				<Answer>Hey there...</Answer>
+				<Answer>Uh, hello, sir.</Answer>
+				<Answer>Hello Officer...</Answer>
+				<Answer>Hey, Officer...</Answer>
+				<Answer>Uh, hello there, sir.</Answer>
+				<Answer>Hello there, Officer...</Answer>
+				<Answer>Hey there, Officer...</Answer>
+				<Answer>Hi there, Officer...</Answer>
+				<Answer>Uh, hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Officer...?</Answer>
+				<Answer>Hi there... What’s up?</Answer>
+				<Answer>Hey... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on?</Answer>
+				<Answer>Hi there... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on, Officer?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Hi... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hey there... What can I do for you?</Answer>
+				<Answer>Uh, hello Officer... What can I do for you?</Answer>
+				<Answer>Uh, hello there, Officer... What can I do for you?</Answer>
+				<Answer>Hey... What’s up, Officer?</Answer>
+				<Answer>Uh, hey Officer... What can I do for you?</Answer>
+				<Answer>Hey... What’s going on, Officer?</Answer>
+				<Answer>Hello... What’s going on, Officer?</Answer>
+				<Answer>Uh... Hey sir, what’s up?</Answer>
+				<Answer>Hey... What’s going on, sir?</Answer>
+				<Answer>Hey there, sir... What’s up?</Answer>
+				<Answer>Hey there, Officer... What’s up?</Answer>
+				<Answer>Hi there, Officer... What’s going on?</Answer>
+				<Answer>Hey, what’s going on, sir...? What can I do for you?</Answer>
+				<Answer>Hey there, sir... What’s up? What can I do for you?</Answer>
+				<Answer>Hey there, Officer... What’s up? What can I do for you?</Answer>
+				<Answer>Hi there, Officer... What’s going on? What can I do for you?</Answer>
+				<Answer>Uh, hey Officer...</Answer>
+				<Answer>Um... Hey sir...</Answer>
+				<Answer>Hello Officer...?</Answer>
+				<Answer>Uh... Hi sir...</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Officer?</Answer>
+				<Answer>Um, what can I do for you, sir...?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hey Officer... What can I do for you?</Answer>
+				<Answer>Hey sir... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hi there, Officer... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Uh... Hello Officer... What can I do for you?</Answer>
+				<Answer>Hello, sir... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you, sir?</Answer>
+				<Answer>Uh... What can I do for you, Officer?</Answer>
+				<Answer>Hey there... What can I do for you, sir?</Answer>
+				<Answer>Hey there, Officer... What can I do for you?</Answer>
+				<Answer>Uh... Is everything alright?</Answer>
+				<Answer>Is everything alright, Officer...?</Answer>
+				<Answer>Uh... Is everything alright, sir?</Answer>
+				<Answer>Hey... Is everything alright?</Answer>
+				<Answer>Hey Officer... Is everything alright?</Answer>
+				<Answer>Hey sir... Is everything alright?</Answer>
+				<Answer>Hi there... Is everything alright?</Answer>
+				<Answer>Hi there, Officer... Is everything alright?</Answer>
+				<Answer>Hello there... Is everything alright?</Answer>
+				<Answer>Uh... Hello Officer... Is everything alright?</Answer>
+				<Answer>Hello sir... Is everything alright?</Answer>
+				<Answer>Uh, hey. Did I do something?</Answer>
+				<Answer>What’s this about?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>Yeah?</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Officer?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh... Yes?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Officer?</Answer>
+				<Answer>Um, what can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>What do you sir, Officer?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Officer?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Officer.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Officer?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Officer.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>		
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Officer?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>What do you sir, sir?</Answer>
+				<Answer>What do you sir, Officer?</Answer>
+				<Answer>Yeah? What do you need?</Answer>
+				<Answer>Yeah? What do you need, sir?</Answer>
+				<Answer>Yeah? What do you need, Officer?</Answer>
+				<Answer>Yeah? What do you want?</Answer>
+				<Answer>Yeah? What do you want, sir?</Answer>
+				<Answer>Yeah? What do you want, Officer?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Officer?</Answer>
+				<Answer>What am I being stopped for, exactly?</Answer>
+				<Answer>What am I being stopped for, Officer?</Answer>
+				<Answer>Why am I being stopped Officer?</Answer>
+				<Answer>Whatever man. Can you just tell me why you stopped me?</Answer>
+				<Answer>Yes?</Answer>
+				<Answer>Hello, "ociffer sir".</Answer>
+				<Answer>Whatever. Why did you stop me?</Answer>
+				<Answer>Whatever. Why the hell did you stop me?</Answer>
+				<Answer>Yeah? What the hell do you want?</Answer>
+				<Answer>What do you want now?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you want, Officer?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>Yeah? What do you need now?</Answer>
+				<Answer>Yeah? What’s your problem, sir?</Answer>
+				<Answer>Yeah? What do you want, Officer?</Answer>
+				<Answer>Yeah? What do you want now?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What do you want, Officer?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Officer?</Answer>
+				<Answer>What the hell is it now?</Answer>
+				<Answer>What the hell do you need?</Answer>
+				<Answer>What the hell is your problem?</Answer>
+				<Answer>What the hell do you want, Officer?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What the hell is going on here?</Answer>
+				<Answer>What the hell do you need, Officer?</Answer>
+				<Answer>What the hell do you want from me?</Answer>
+				<Answer>What the hell is your deal, Officer?</Answer>
+				<Answer>What the hell is your problem, sir?</Answer>
+				<Answer>Why are you bothering me now?</Answer>
+				<Answer>Why are you bothering me, Officer?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Officer?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Officer?</Answer>
+				<Answer>Why are you bothering me, Officer?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Officer?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Officer.</Answer>
+				<Answer>Hey, Officer.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Officer.</Answer>
+				<Answer>Hey there, Officer.</Answer>
+				<Answer>Hi there, Officer.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Officer?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there. What’s up, Officer??</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Officer, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Officer?</Answer>
+				<Answer>Hey, what’s up, Officer?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Officer?</Answer>
+				<Answer>Hello, what’s going on, Officer?</Answer>
+				<Answer>Hello Officer, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Officer, what’s up?</Answer>
+				<Answer>Hi there Officer, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Officer, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Officer, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Officer.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Officer.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Officer.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Officer?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Officer, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Officer?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Officer, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Officer?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Officer, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Officer?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Officer, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Officer?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Officer, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Officer?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Officer?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Officer, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Officer, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Officer?</Answer>
+				<Answer>Hello Officer, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Officer?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+    </Negative>
+</Drinking>
+<Drugs question=" Hello, I'm Sergeant ___ with the ___ Police Department."> <!-- 2nd -->
+    <Positive>
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Sergeant?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Sergeant.</Answer>
+				<Answer>Hey, Sergeant.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Sergeant.</Answer>
+				<Answer>Hey there, Sergeant.</Answer>
+				<Answer>Hi there, Sergeant.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Sergeant?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Sergeant?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Sergeant, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Sergeant?</Answer>
+				<Answer>Hey, what’s up, Sergeant?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Sergeant?</Answer>
+				<Answer>Hello, what’s going on, Sergeant?</Answer>
+				<Answer>Hello Sergeant, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Sergeant, what’s up?</Answer>
+				<Answer>Hi there Sergeant, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Sergeant, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Sergeant, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Sergeant.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Sergeant.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Sergeant.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Sergeant, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Sergeant?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Sergeant?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Sergeant, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Sergeant?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Sergeant?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Sergeant, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Sergeant?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sergeant?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Sergeant, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Sergeant, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Sergeant?</Answer>
+				<Answer>Hello Sergeant, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh, hello...</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>*COUGH* Hello.</Answer>
+				<Answer>Uh, hello Sergeant.</Answer>
+				<Answer>Uh...Yes?</Answer>
+				<Answer>*COUGH* *Silence.*</Answer>
+				<Answer>Uh, hello. What am I being stopped for, exactly?</Answer>
+				<Answer>Um, hello. What am I being stopped for, Sergeant?</Answer>
+				<Answer>Uh, hello Sergeant.</Answer>
+				<Answer>Uh, hello. What am I being stopped for, Sergeant?</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>Hi...</Answer>
+				<Answer>Um, hey.</Answer>
+				<Answer>Uh, hello there.</Answer>
+				<Answer>Hi there...</Answer>
+				<Answer>Hey there...</Answer>
+				<Answer>Uh, hello, sir.</Answer>
+				<Answer>Hello Sergeant...</Answer>
+				<Answer>Hey, Sergeant...</Answer>
+				<Answer>Uh, hello there, sir.</Answer>
+				<Answer>Hello there, Sergeant...</Answer>
+				<Answer>Hey there, Sergeant...</Answer>
+				<Answer>Hi there, Sergeant...</Answer>
+				<Answer>Uh, hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Sergeant...?</Answer>
+				<Answer>Hi there... What’s up?</Answer>
+				<Answer>Hey... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on?</Answer>
+				<Answer>Hi there... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on, Sergeant?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Hi... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hey there... What can I do for you?</Answer>
+				<Answer>Uh, hello Sergeant... What can I do for you?</Answer>
+				<Answer>Uh, hello there, Sergeant... What can I do for you?</Answer>
+				<Answer>Hey... What’s up, Sergeant?</Answer>
+				<Answer>Uh, hey Sergeant... What can I do for you?</Answer>
+				<Answer>Hey... What’s going on, Sergeant?</Answer>
+				<Answer>Hello... What’s going on, Sergeant?</Answer>
+				<Answer>Uh... Hey sir, what’s up?</Answer>
+				<Answer>Hey... What’s going on, sir?</Answer>
+				<Answer>Hey there, sir... What’s up?</Answer>
+				<Answer>Hey there, Sergeant... What’s up?</Answer>
+				<Answer>Hi there, Sergeant... What’s going on?</Answer>
+				<Answer>Hey, what’s going on, sir...? What can I do for you?</Answer>
+				<Answer>Hey there, sir... What’s up? What can I do for you?</Answer>
+				<Answer>Hey there, Sergeant... What’s up? What can I do for you?</Answer>
+				<Answer>Hi there, Sergeant... What’s going on? What can I do for you?</Answer>
+				<Answer>Uh, hey Sergeant...</Answer>
+				<Answer>Um... Hey sir...</Answer>
+				<Answer>Hello Sergeant...?</Answer>
+				<Answer>Uh... Hi sir...</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Sergeant?</Answer>
+				<Answer>Um, what can I do for you, sir...?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hey Sergeant... What can I do for you?</Answer>
+				<Answer>Hey sir... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hi there, Sergeant... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Uh... Hello Sergeant... What can I do for you?</Answer>
+				<Answer>Hello, sir... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you, sir?</Answer>
+				<Answer>Uh... What can I do for you, Sergeant?</Answer>
+				<Answer>Hey there... What can I do for you, sir?</Answer>
+				<Answer>Hey there, Sergeant... What can I do for you?</Answer>
+				<Answer>Uh... Is everything alright?</Answer>
+				<Answer>Is everything alright, Sergeant...?</Answer>
+				<Answer>Uh... Is everything alright, sir?</Answer>
+				<Answer>Hey... Is everything alright?</Answer>
+				<Answer>Hey Sergeant... Is everything alright?</Answer>
+				<Answer>Hey sir... Is everything alright?</Answer>
+				<Answer>Hi there... Is everything alright?</Answer>
+				<Answer>Hi there, Sergeant... Is everything alright?</Answer>
+				<Answer>Hello there... Is everything alright?</Answer>
+				<Answer>Uh... Hello Sergeant... Is everything alright?</Answer>
+				<Answer>Hello sir... Is everything alright?</Answer>
+				<Answer>Uh, hey. Did I do something?</Answer>
+				<Answer>What’s this about?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>Yeah?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Sergeant?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>What do you sir, sir?</Answer>
+				<Answer>What do you sir, Sergeant?</Answer>
+				<Answer>Yeah? What do you need?</Answer>
+				<Answer>Yeah? What do you need, sir?</Answer>
+				<Answer>Yeah? What do you need, Sergeant?</Answer>
+				<Answer>Yeah? What do you want?</Answer>
+				<Answer>Yeah? What do you want, sir?</Answer>
+				<Answer>Yeah? What do you want, Sergeant?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Sergeant?</Answer>
+				<Answer>What am I being stopped for, exactly?</Answer>
+				<Answer>What am I being stopped for, Sergeant?</Answer>
+				<Answer>Why am I being stopped Sergeant?</Answer>
+				<Answer>Whatever man. Can you just tell me why you stopped me?</Answer>
+				<Answer>Yes?</Answer>
+				<Answer>Hello, "ociffer sir".</Answer>
+				<Answer>Whatever. Why did you stop me?</Answer>
+				<Answer>Whatever. Why the hell did you stop me?</Answer>
+				<Answer>Yeah? What the hell do you want?</Answer>
+				<Answer>What do you want now?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you want, Sergeant?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>Yeah? What do you need now?</Answer>
+				<Answer>Yeah? What’s your problem, sir?</Answer>
+				<Answer>Yeah? What do you want, Sergeant?</Answer>
+				<Answer>Yeah? What do you want now?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What do you want, Sergeant?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Sergeant?</Answer>
+				<Answer>What the hell is it now?</Answer>
+				<Answer>What the hell do you need?</Answer>
+				<Answer>What the hell is your problem?</Answer>
+				<Answer>What the hell do you want, Sergeant?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What the hell is going on here?</Answer>
+				<Answer>What the hell do you need, Sergeant?</Answer>
+				<Answer>What the hell do you want from me?</Answer>
+				<Answer>What the hell is your deal, Sergeant?</Answer>
+				<Answer>What the hell is your problem, sir?</Answer>
+				<Answer>Why are you bothering me now?</Answer>
+				<Answer>Why are you bothering me, Sergeant?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Sergeant?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Sergeant?</Answer>
+				<Answer>Why are you bothering me, Sergeant?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Sergeant?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Sergeant.</Answer>
+				<Answer>Hey, Sergeant.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Sergeant.</Answer>
+				<Answer>Hey there, Sergeant.</Answer>
+				<Answer>Hi there, Sergeant.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Sergeant?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Sergeant?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Sergeant, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Sergeant?</Answer>
+				<Answer>Hey, what’s up, Sergeant?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Sergeant?</Answer>
+				<Answer>Hello, what’s going on, Sergeant?</Answer>
+				<Answer>Hello Sergeant, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Sergeant, what’s up?</Answer>
+				<Answer>Hi there Sergeant, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Sergeant, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Sergeant, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Sergeant.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Sergeant.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Sergeant.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Sergeant, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Sergeant?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Sergeant?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Sergeant, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Sergeant?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Sergeant?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Sergeant, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Sergeant?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sergeant?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Sergeant, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Sergeant, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Sergeant?</Answer>
+				<Answer>Hello Sergeant, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sergeant?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh... Yes?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Sergeant?</Answer>
+				<Answer>Um, what can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>What do you sir, Sergeant?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Sergeant?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Sergeant.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sergeant?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Sergeant.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>		
+    </Positive>
+    <Negative>
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Sergeant?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Sergeant.</Answer>
+				<Answer>Hey, Sergeant.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Sergeant.</Answer>
+				<Answer>Hey there, Sergeant.</Answer>
+				<Answer>Hi there, Sergeant.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Sergeant?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Sergeant?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Sergeant, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Sergeant?</Answer>
+				<Answer>Hey, what’s up, Sergeant?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Sergeant?</Answer>
+				<Answer>Hello, what’s going on, Sergeant?</Answer>
+				<Answer>Hello Sergeant, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Sergeant, what’s up?</Answer>
+				<Answer>Hi there Sergeant, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Sergeant, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Sergeant, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Sergeant.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Sergeant.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Sergeant.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Sergeant, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Sergeant?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Sergeant?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Sergeant, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Sergeant?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Sergeant?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Sergeant, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Sergeant?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sergeant?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Sergeant, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Sergeant, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Sergeant?</Answer>
+				<Answer>Hello Sergeant, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh, hello...</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>*COUGH* Hello.</Answer>
+				<Answer>Uh, hello Sergeant.</Answer>
+				<Answer>Uh...Yes?</Answer>
+				<Answer>*COUGH* *Silence.*</Answer>
+				<Answer>Uh, hello. What am I being stopped for, exactly?</Answer>
+				<Answer>Um, hello. What am I being stopped for, Sergeant?</Answer>
+				<Answer>Uh, hello Sergeant.</Answer>
+				<Answer>Uh, hello. What am I being stopped for, Sergeant?</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>Hi...</Answer>
+				<Answer>Um, hey.</Answer>
+				<Answer>Uh, hello there.</Answer>
+				<Answer>Hi there...</Answer>
+				<Answer>Hey there...</Answer>
+				<Answer>Uh, hello, sir.</Answer>
+				<Answer>Hello Sergeant...</Answer>
+				<Answer>Hey, Sergeant...</Answer>
+				<Answer>Uh, hello there, sir.</Answer>
+				<Answer>Hello there, Sergeant...</Answer>
+				<Answer>Hey there, Sergeant...</Answer>
+				<Answer>Hi there, Sergeant...</Answer>
+				<Answer>Uh, hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Sergeant...?</Answer>
+				<Answer>Hi there... What’s up?</Answer>
+				<Answer>Hey... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on?</Answer>
+				<Answer>Hi there... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on, Sergeant?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Hi... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hey there... What can I do for you?</Answer>
+				<Answer>Uh, hello Sergeant... What can I do for you?</Answer>
+				<Answer>Uh, hello there, Sergeant... What can I do for you?</Answer>
+				<Answer>Hey... What’s up, Sergeant?</Answer>
+				<Answer>Uh, hey Sergeant... What can I do for you?</Answer>
+				<Answer>Hey... What’s going on, Sergeant?</Answer>
+				<Answer>Hello... What’s going on, Sergeant?</Answer>
+				<Answer>Uh... Hey sir, what’s up?</Answer>
+				<Answer>Hey... What’s going on, sir?</Answer>
+				<Answer>Hey there, sir... What’s up?</Answer>
+				<Answer>Hey there, Sergeant... What’s up?</Answer>
+				<Answer>Hi there, Sergeant... What’s going on?</Answer>
+				<Answer>Hey, what’s going on, sir...? What can I do for you?</Answer>
+				<Answer>Hey there, sir... What’s up? What can I do for you?</Answer>
+				<Answer>Hey there, Sergeant... What’s up? What can I do for you?</Answer>
+				<Answer>Hi there, Sergeant... What’s going on? What can I do for you?</Answer>
+				<Answer>Uh, hey Sergeant...</Answer>
+				<Answer>Um... Hey sir...</Answer>
+				<Answer>Hello Sergeant...?</Answer>
+				<Answer>Uh... Hi sir...</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Sergeant?</Answer>
+				<Answer>Um, what can I do for you, sir...?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hey Sergeant... What can I do for you?</Answer>
+				<Answer>Hey sir... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hi there, Sergeant... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Uh... Hello Sergeant... What can I do for you?</Answer>
+				<Answer>Hello, sir... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you, sir?</Answer>
+				<Answer>Uh... What can I do for you, Sergeant?</Answer>
+				<Answer>Hey there... What can I do for you, sir?</Answer>
+				<Answer>Hey there, Sergeant... What can I do for you?</Answer>
+				<Answer>Uh... Is everything alright?</Answer>
+				<Answer>Is everything alright, Sergeant...?</Answer>
+				<Answer>Uh... Is everything alright, sir?</Answer>
+				<Answer>Hey... Is everything alright?</Answer>
+				<Answer>Hey Sergeant... Is everything alright?</Answer>
+				<Answer>Hey sir... Is everything alright?</Answer>
+				<Answer>Hi there... Is everything alright?</Answer>
+				<Answer>Hi there, Sergeant... Is everything alright?</Answer>
+				<Answer>Hello there... Is everything alright?</Answer>
+				<Answer>Uh... Hello Sergeant... Is everything alright?</Answer>
+				<Answer>Hello sir... Is everything alright?</Answer>
+				<Answer>Uh, hey. Did I do something?</Answer>
+				<Answer>What’s this about?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>Yeah?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Sergeant?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>What do you sir, sir?</Answer>
+				<Answer>What do you sir, Sergeant?</Answer>
+				<Answer>Yeah? What do you need?</Answer>
+				<Answer>Yeah? What do you need, sir?</Answer>
+				<Answer>Yeah? What do you need, Sergeant?</Answer>
+				<Answer>Yeah? What do you want?</Answer>
+				<Answer>Yeah? What do you want, sir?</Answer>
+				<Answer>Yeah? What do you want, Sergeant?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Sergeant?</Answer>
+				<Answer>What am I being stopped for, exactly?</Answer>
+				<Answer>What am I being stopped for, Sergeant?</Answer>
+				<Answer>Why am I being stopped Sergeant?</Answer>
+				<Answer>Whatever man. Can you just tell me why you stopped me?</Answer>
+				<Answer>Yes?</Answer>
+				<Answer>Hello, "ociffer sir".</Answer>
+				<Answer>Whatever. Why did you stop me?</Answer>
+				<Answer>Whatever. Why the hell did you stop me?</Answer>
+				<Answer>Yeah? What the hell do you want?</Answer>
+				<Answer>What do you want now?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you want, Sergeant?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>Yeah? What do you need now?</Answer>
+				<Answer>Yeah? What’s your problem, sir?</Answer>
+				<Answer>Yeah? What do you want, Sergeant?</Answer>
+				<Answer>Yeah? What do you want now?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What do you want, Sergeant?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Sergeant?</Answer>
+				<Answer>What the hell is it now?</Answer>
+				<Answer>What the hell do you need?</Answer>
+				<Answer>What the hell is your problem?</Answer>
+				<Answer>What the hell do you want, Sergeant?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What the hell is going on here?</Answer>
+				<Answer>What the hell do you need, Sergeant?</Answer>
+				<Answer>What the hell do you want from me?</Answer>
+				<Answer>What the hell is your deal, Sergeant?</Answer>
+				<Answer>What the hell is your problem, sir?</Answer>
+				<Answer>Why are you bothering me now?</Answer>
+				<Answer>Why are you bothering me, Sergeant?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Sergeant?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Sergeant?</Answer>
+				<Answer>Why are you bothering me, Sergeant?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Sergeant?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Sergeant.</Answer>
+				<Answer>Hey, Sergeant.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Sergeant.</Answer>
+				<Answer>Hey there, Sergeant.</Answer>
+				<Answer>Hi there, Sergeant.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Sergeant?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Sergeant?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Sergeant, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Sergeant?</Answer>
+				<Answer>Hey, what’s up, Sergeant?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Sergeant?</Answer>
+				<Answer>Hello, what’s going on, Sergeant?</Answer>
+				<Answer>Hello Sergeant, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Sergeant, what’s up?</Answer>
+				<Answer>Hi there Sergeant, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Sergeant, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Sergeant, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Sergeant.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Sergeant.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Sergeant.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Sergeant, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Sergeant?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Sergeant, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Sergeant?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Sergeant, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Sergeant?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Sergeant, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Sergeant?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Sergeant, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Sergeant?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sergeant?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Sergeant, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Sergeant, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Sergeant?</Answer>
+				<Answer>Hello Sergeant, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sergeant?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh... Yes?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Sergeant?</Answer>
+				<Answer>Um, what can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>What do you sir, Sergeant?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Sergeant?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Sergeant.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sergeant?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Sergeant.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Sergeant?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Sergeant?</Answer>
+				<Answer>What can I do for you, sir?</Answer>		
+    </Negative>
+</Drugs>
+<PedDoing question="   Hello, I'm Sheriff ___ with the ___ Sheriff's Department."> <!-- 4th --> 
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Sheriff?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Sherrif.</Answer>
+				<Answer>Hey, Sherrif.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Sherrif.</Answer>
+				<Answer>Hey there, Sherrif.</Answer>
+				<Answer>Hi there, Sherrif.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Sherrif?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Sherrif?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Sherrif, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Sherrif, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Sherrif?</Answer>
+				<Answer>Hey, what’s up, Sherrif?</Answer>
+				<Answer>Hey Sherrif, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Sherrif?</Answer>
+				<Answer>Hello, what’s going on, Sherrif?</Answer>
+				<Answer>Hello Sherrif, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Sherrif, what’s up?</Answer>
+				<Answer>Hi there Sherrif, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Sherrif, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Sherrif, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Sherrif.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Sherrif.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Sherrif.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sherrif?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Sherrif, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Sherrif, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Sherrif?</Answer>
+				<Answer>Hello Sherrif, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Sherrif, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Sherrif?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Sherrif, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Sherrif?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Sherrif, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Sherrif?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Sherrif, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Sherrif?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sherrif?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Sherrif, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Sherrif, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Sherrif?</Answer>
+				<Answer>Hello Sherrif, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Sherrif?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh, hello...</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>*COUGH* Hello.</Answer>
+				<Answer>Uh, hello Sherrif.</Answer>
+				<Answer>Uh...Yes?</Answer>
+				<Answer>*COUGH* *Silence.*</Answer>
+				<Answer>Uh, hello. What am I being stopped for, exactly?</Answer>
+				<Answer>Um, hello. What am I being stopped for, Sherrif?</Answer>
+				<Answer>Uh, hello Sherrif.</Answer>
+				<Answer>Uh, hello. What am I being stopped for, Sherrif?</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>Hi...</Answer>
+				<Answer>Um, hey.</Answer>
+				<Answer>Uh, hello there.</Answer>
+				<Answer>Hi there...</Answer>
+				<Answer>Hey there...</Answer>
+				<Answer>Uh, hello, sir.</Answer>
+				<Answer>Hello Sherrif...</Answer>
+				<Answer>Hey, Sherrif...</Answer>
+				<Answer>Uh, hello there, sir.</Answer>
+				<Answer>Hello there, Sherrif...</Answer>
+				<Answer>Hey there, Sherrif...</Answer>
+				<Answer>Hi there, Sherrif...</Answer>
+				<Answer>Uh, hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Sherrif...?</Answer>
+				<Answer>Hi there... What’s up?</Answer>
+				<Answer>Hey... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on?</Answer>
+				<Answer>Hi there... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on, Sherrif?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Hi... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hey there... What can I do for you?</Answer>
+				<Answer>Uh, hello Sherrif... What can I do for you?</Answer>
+				<Answer>Uh, hello there, Sherrif... What can I do for you?</Answer>
+				<Answer>Hey... What’s up, Sherrif?</Answer>
+				<Answer>Uh, hey Sherrif... What can I do for you?</Answer>
+				<Answer>Hey... What’s going on, Sherrif?</Answer>
+				<Answer>Hello... What’s going on, Sherrif?</Answer>
+				<Answer>Uh... Hey sir, what’s up?</Answer>
+				<Answer>Hey... What’s going on, sir?</Answer>
+				<Answer>Hey there, sir... What’s up?</Answer>
+				<Answer>Hey there, Sherrif... What’s up?</Answer>
+				<Answer>Hi there, Sherrif... What’s going on?</Answer>
+				<Answer>Hey, what’s going on, sir...? What can I do for you?</Answer>
+				<Answer>Hey there, sir... What’s up? What can I do for you?</Answer>
+				<Answer>Hey there, Sherrif... What’s up? What can I do for you?</Answer>
+				<Answer>Hi there, Sherrif... What’s going on? What can I do for you?</Answer>
+				<Answer>Uh, hey Sherrif...</Answer>
+				<Answer>Um... Hey sir...</Answer>
+				<Answer>Hello Sherrif...?</Answer>
+				<Answer>Uh... Hi sir...</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Sherrif?</Answer>
+				<Answer>Um, what can I do for you, sir...?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hey Sherrif... What can I do for you?</Answer>
+				<Answer>Hey sir... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hi there, Sherrif... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Uh... Hello Sherrif... What can I do for you?</Answer>
+				<Answer>Hello, sir... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you, sir?</Answer>
+				<Answer>Uh... What can I do for you, Sherrif?</Answer>
+				<Answer>Hey there... What can I do for you, sir?</Answer>
+				<Answer>Hey there, Sherrif... What can I do for you?</Answer>
+				<Answer>Uh... Is everything alright?</Answer>
+				<Answer>Is everything alright, Sherrif...?</Answer>
+				<Answer>Uh... Is everything alright, sir?</Answer>
+				<Answer>Hey... Is everything alright?</Answer>
+				<Answer>Hey Sherrif... Is everything alright?</Answer>
+				<Answer>Hey sir... Is everything alright?</Answer>
+				<Answer>Hi there... Is everything alright?</Answer>
+				<Answer>Hi there, Sherrif... Is everything alright?</Answer>
+				<Answer>Hello there... Is everything alright?</Answer>
+				<Answer>Uh... Hello Sherrif... Is everything alright?</Answer>
+				<Answer>Hello sir... Is everything alright?</Answer>
+				<Answer>Uh, hey. Did I do something?</Answer>
+				<Answer>What’s this about?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>Yeah?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Sherrif?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>What do you sir, sir?</Answer>
+				<Answer>What do you sir, Sherrif?</Answer>
+				<Answer>Yeah? What do you need?</Answer>
+				<Answer>Yeah? What do you need, sir?</Answer>
+				<Answer>Yeah? What do you need, Sherrif?</Answer>
+				<Answer>Yeah? What do you want?</Answer>
+				<Answer>Yeah? What do you want, sir?</Answer>
+				<Answer>Yeah? What do you want, Sherrif?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Sherrif?</Answer>
+				<Answer>What am I being stopped for, exactly?</Answer>
+				<Answer>What am I being stopped for, Sherrif?</Answer>
+				<Answer>Why am I being stopped Sherrif?</Answer>
+				<Answer>Whatever man. Can you just tell me why you stopped me?</Answer>
+				<Answer>Yes?</Answer>
+				<Answer>Hello, "ociffer sir".</Answer>
+				<Answer>Whatever. Why did you stop me?</Answer>
+				<Answer>Whatever. Why the hell did you stop me?</Answer>
+				<Answer>Yeah? What the hell do you want?</Answer>
+				<Answer>What do you want now?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you want, Sherrif?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>Yeah? What do you need now?</Answer>
+				<Answer>Yeah? What’s your problem, sir?</Answer>
+				<Answer>Yeah? What do you want, Sherrif?</Answer>
+				<Answer>Yeah? What do you want now?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What do you want, Sherrif?</Answer>
+				<Answer>How can I help you, Sherrif?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Sherrif?</Answer>
+				<Answer>What the hell is it now?</Answer>
+				<Answer>What the hell do you need?</Answer>
+				<Answer>What the hell is your problem?</Answer>
+				<Answer>What the hell do you want, Sherrif?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What the hell is going on here?</Answer>
+				<Answer>What the hell do you need, Sherrif?</Answer>
+				<Answer>What the hell do you want from me?</Answer>
+				<Answer>What the hell is your deal, Sherrif?</Answer>
+				<Answer>What the hell is your problem, sir?</Answer>
+				<Answer>Why are you bothering me now?</Answer>
+				<Answer>Why are you bothering me, Sherrif?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Sherrif?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Sherrif?</Answer>
+				<Answer>Why are you bothering me, Sherrif?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Sherrif?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Sherrif.</Answer>
+				<Answer>Hey, Sherrif.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Sherrif.</Answer>
+				<Answer>Hey there, Sherrif.</Answer>
+				<Answer>Hi there, Sherrif.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Sherrif?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Sherrif?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Sherrif, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Sherrif, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Sherrif?</Answer>
+				<Answer>Hey, what’s up, Sherrif?</Answer>
+				<Answer>Hey Sherrif, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Sherrif?</Answer>
+				<Answer>Hello, what’s going on, Sherrif?</Answer>
+				<Answer>Hello Sherrif, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Sherrif, what’s up?</Answer>
+				<Answer>Hi there Sherrif, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Sherrif, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Sherrif, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Sherrif.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Sherrif.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Sherrif.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sherrif?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Sherrif, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Sherrif, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Sherrif?</Answer>
+				<Answer>Hello Sherrif, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Sherrif, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Sherrif?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Sherrif, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Sherrif?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Sherrif, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Sherrif?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Sherrif, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Sherrif?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sherrif?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Sherrif, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sheriff?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sheriff?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Sheriff?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh... Yes?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Sheriff?</Answer>
+				<Answer>Um, what can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>What do you sir, Sheriff?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Sheriff?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Sheriff?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Sheriff.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sheriff?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Sheriff?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Sheriff?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Sheriff.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>How can I help you, Sheriff?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Sheriff?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sheriff?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sheriff?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Sheriff?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Sheriff?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Sheriff?</Answer>
+				<Answer>What can I do for you, sir?</Answer>		
+				<Answer>Hi there, Sherrif, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Sherrif?</Answer>
+				<Answer>Hello Sherrif, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Sherrif?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+</PedDoing>
+<PedFrom question="    Hello, I'm Trooper ___ with the State Patrol."> <!-- 5th --> 
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Trooper?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Trooper.</Answer>
+				<Answer>Hey, Trooper.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Trooper.</Answer>
+				<Answer>Hey there, Trooper.</Answer>
+				<Answer>Hi there, Trooper.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Trooper?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Trooper?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Trooper, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Trooper, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Trooper?</Answer>
+				<Answer>Hey, what’s up, Trooper?</Answer>
+				<Answer>Hey Trooper, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Trooper?</Answer>
+				<Answer>Hello, what’s going on, Trooper?</Answer>
+				<Answer>Hello Trooper, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Trooper, what’s up?</Answer>
+				<Answer>Hi there Trooper, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Trooper, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Trooper, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Trooper.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Trooper.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Trooper.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Trooper?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Trooper, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Trooper, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Trooper?</Answer>
+				<Answer>Hello Trooper, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Trooper, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Trooper?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Trooper, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Trooper?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Trooper, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Trooper?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Trooper, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Trooper?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Trooper?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Trooper, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Trooper, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Trooper?</Answer>
+				<Answer>Hello Trooper, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Trooper?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh, hello...</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>Uh, hello Trooper.</Answer>
+				<Answer>Uh... Yes?</Answer>
+				<Answer>Uh, hello. What am I being stopped for, exactly?</Answer>
+				<Answer>Um, hello. What am I being stopped for, Trooper?</Answer>
+				<Answer>Uh, hello Trooper.</Answer>
+				<Answer>Uh, hello. What am I being stopped for, Trooper?</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>Hi...</Answer>
+				<Answer>Um, hey.</Answer>
+				<Answer>Uh, hello there.</Answer>
+				<Answer>Hi there...</Answer>
+				<Answer>Hey there...</Answer>
+				<Answer>Uh, hello, sir.</Answer>
+				<Answer>Hello Trooper...</Answer>
+				<Answer>Hey, Trooper...</Answer>
+				<Answer>Uh, hello there, sir.</Answer>
+				<Answer>Hello there, Trooper...</Answer>
+				<Answer>Hey there, Trooper...</Answer>
+				<Answer>Hi there, Trooper...</Answer>
+				<Answer>Uh, hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Trooper?</Answer>
+				<Answer>Hi there... What’s up?</Answer>
+				<Answer>Hey... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on?</Answer>
+				<Answer>Hi there... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on, Trooper?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Hi... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hey there... What can I do for you?</Answer>
+				<Answer>Uh, hello Trooper... What can I do for you?</Answer>
+				<Answer>Uh, hello there, Trooper... What can I do for you?</Answer>
+				<Answer>Hey... What’s up, Trooper?</Answer>
+				<Answer>Uh, hey Trooper... What can I do for you?</Answer>
+				<Answer>Hey... What’s going on, Trooper?</Answer>
+				<Answer>Hello... What’s going on, Trooper?</Answer>
+				<Answer>Uh... Hey sir, what’s up?</Answer>
+				<Answer>Hey... What’s going on, sir?</Answer>
+				<Answer>Hey there, sir... What’s up?</Answer>
+				<Answer>Hey there, Trooper... What’s up?</Answer>
+				<Answer>Hi there, Trooper... What’s going on?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there, sir... What’s up? What can I do for you?</Answer>
+				<Answer>Hey there, Trooper... What’s up? What can I do for you?</Answer>
+				<Answer>Hi there, Trooper... What’s going on? What can I do for you?</Answer>
+				<Answer>Uh, hey Trooper...</Answer>
+				<Answer>Um... Hey sir...</Answer>
+				<Answer>Hello Trooper?</Answer>
+				<Answer>Uh... Hi sir...</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Trooper?</Answer>
+				<Answer>Um, what can I do for you, sir?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hey Trooper... What can I do for you?</Answer>
+				<Answer>Hey sir... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hi there, Trooper... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Uh... Hello Trooper... What can I do for you?</Answer>
+				<Answer>Hello, sir... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you, sir?</Answer>
+				<Answer>Uh... What can I do for you, Trooper?</Answer>
+				<Answer>Hey there... What can I do for you, sir?</Answer>
+				<Answer>Hey there, Trooper... What can I do for you?</Answer>
+				<Answer>Uh... Is everything alright?</Answer>
+				<Answer>Is everything alright, Trooper?</Answer>
+				<Answer>Uh... Is everything alright, sir?</Answer>
+				<Answer>Hey... Is everything alright?</Answer>
+				<Answer>Hey Trooper... Is everything alright?</Answer>
+				<Answer>Hey sir... Is everything alright?</Answer>
+				<Answer>Hi there... Is everything alright?</Answer>
+				<Answer>Hi there, Trooper... Is everything alright?</Answer>
+				<Answer>Hello there... Is everything alright?</Answer>
+				<Answer>Uh... Hello Trooper... Is everything alright?</Answer>
+				<Answer>Hello sir... Is everything alright?</Answer>
+				<Answer>Uh, hey. Did I do something?</Answer>
+				<Answer>What’s this about?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>Yeah?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Trooper?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>What do you sir, sir?</Answer>
+				<Answer>What do you sir, Trooper?</Answer>
+				<Answer>Yeah? What do you need?</Answer>
+				<Answer>Yeah? What do you need, sir?</Answer>
+				<Answer>Yeah? What do you need, Trooper?</Answer>
+				<Answer>Yeah? What do you want?</Answer>
+				<Answer>Yeah? What do you want, sir?</Answer>
+				<Answer>Yeah? What do you want, Trooper?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Trooper?</Answer>
+				<Answer>What am I being stopped for, exactly?</Answer>
+				<Answer>What am I being stopped for, Trooper?</Answer>
+				<Answer>Why am I being stopped Trooper?</Answer>
+				<Answer>Whatever man. Can you just tell me why you stopped me?</Answer>
+				<Answer>Yes?</Answer>
+				<Answer>Hello, "ociffer sir".</Answer>
+				<Answer>Whatever. Why did you stop me?</Answer>
+				<Answer>Whatever. Why the hell did you stop me?</Answer>
+				<Answer>Yeah? What the hell do you want?</Answer>
+				<Answer>What do you want now?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you want, Trooper?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>Yeah? What do you need now?</Answer>
+				<Answer>Yeah? What’s your problem, sir?</Answer>
+				<Answer>Yeah? What do you want, Trooper?</Answer>
+				<Answer>Yeah? What do you want now?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What do you want, Trooper?</Answer>
+				<Answer>How can I help you, Trooper?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Trooper?</Answer>
+				<Answer>What the hell is it now?</Answer>
+				<Answer>What the hell do you need?</Answer>
+				<Answer>What the hell is your problem?</Answer>
+				<Answer>What the hell do you want, Trooper?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What the hell is going on here?</Answer>
+				<Answer>What the hell do you need, Trooper?</Answer>
+				<Answer>What the hell do you want from me?</Answer>
+				<Answer>What the hell is your deal, Trooper?</Answer>
+				<Answer>What the hell is your problem, sir?</Answer>
+				<Answer>Why are you bothering me now?</Answer>
+				<Answer>Why are you bothering me, Trooper?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Trooper?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Trooper?</Answer>
+				<Answer>Why are you bothering me, Trooper?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Trooper?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Trooper?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Trooper?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh... Yes?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Trooper?</Answer>
+				<Answer>Um, what can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>What do you sir, Trooper?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Trooper?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Trooper?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Trooper.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Trooper?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Trooper?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Trooper?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Trooper.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>How can I help you, Trooper?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Trooper?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Trooper?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Trooper?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Trooper?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Trooper?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Trooper?</Answer>
+				<Answer>What can I do for you, sir?</Answer>		
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Trooper?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Trooper.</Answer>
+				<Answer>Hey, Trooper.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Trooper.</Answer>
+				<Answer>Hey there, Trooper.</Answer>
+				<Answer>Hi there, Trooper.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Trooper?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Trooper?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Trooper, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Trooper, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Trooper?</Answer>
+				<Answer>Hey, what’s up, Trooper?</Answer>
+				<Answer>Hey Trooper, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Trooper?</Answer>
+				<Answer>Hello, what’s going on, Trooper?</Answer>
+				<Answer>Hello Trooper, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Trooper, what’s up?</Answer>
+				<Answer>Hi there Trooper, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Trooper, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Trooper, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Trooper.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Trooper.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Trooper.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Trooper?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Trooper, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Trooper, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Trooper?</Answer>
+				<Answer>Hello Trooper, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Trooper, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Trooper?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Trooper, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Trooper?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Trooper, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Trooper?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Trooper, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Trooper?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Trooper?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Trooper, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Trooper, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Trooper?</Answer>
+				<Answer>Hello Trooper, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Trooper?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+</PedFrom>
+<PedTo question="     Hello, I'm Agent ___ with the FIB."> <!-- 6th --> 
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Agent?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Agent.</Answer>
+				<Answer>Hey, Agent.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Agent.</Answer>
+				<Answer>Hey there, Agent.</Answer>
+				<Answer>Hi there, Agent.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Agent?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Agent?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Agent, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Agent, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Agent?</Answer>
+				<Answer>Hey, what’s up, Agent?</Answer>
+				<Answer>Hey Agent, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Agent?</Answer>
+				<Answer>Hello, what’s going on, Agent?</Answer>
+				<Answer>Hello Agent, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Agent, what’s up?</Answer>
+				<Answer>Hi there Agent, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Agent, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Agent, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Agent.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Agent.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Agent.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Agent?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Agent, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Agent, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Agent?</Answer>
+				<Answer>Hello Agent, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Agent, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Agent?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Agent, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Agent?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Agent, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Agent?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Agent, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Agent?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Agent?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Agent, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Agent, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Agent?</Answer>
+				<Answer>Hello Agent, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Agent?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh, hello...</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>Uh, hello Agent.</Answer>
+				<Answer>Uh... Yes?</Answer>
+				<Answer>Uh, hello. What am I being stopped for, exactly?</Answer>
+				<Answer>Um, hello. What am I being stopped for, Agent?</Answer>
+				<Answer>Uh, hello Agent.</Answer>
+				<Answer>Uh, hello. What am I being stopped for, Agent?</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>Hi...</Answer>
+				<Answer>Um, hey.</Answer>
+				<Answer>Uh, hello there.</Answer>
+				<Answer>Hi there...</Answer>
+				<Answer>Hey there...</Answer>
+				<Answer>Uh, hello, sir.</Answer>
+				<Answer>Hello Agent...</Answer>
+				<Answer>Hey, Agent...</Answer>
+				<Answer>Uh, hello there, sir.</Answer>
+				<Answer>Hello there, Agent...</Answer>
+				<Answer>Hey there, Agent...</Answer>
+				<Answer>Hi there, Agent...</Answer>
+				<Answer>Uh, hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Agent?</Answer>
+				<Answer>Hi there... What’s up?</Answer>
+				<Answer>Hey... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on?</Answer>
+				<Answer>Hi there... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on, Agent?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Hi... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hey there... What can I do for you?</Answer>
+				<Answer>Uh, hello Agent... What can I do for you?</Answer>
+				<Answer>Uh, hello there, Agent... What can I do for you?</Answer>
+				<Answer>Hey... What’s up, Agent?</Answer>
+				<Answer>Uh, hey Agent... What can I do for you?</Answer>
+				<Answer>Hey... What’s going on, Agent?</Answer>
+				<Answer>Hello... What’s going on, Agent?</Answer>
+				<Answer>Uh... Hey sir, what’s up?</Answer>
+				<Answer>Hey... What’s going on, sir?</Answer>
+				<Answer>Hey there, sir... What’s up?</Answer>
+				<Answer>Hey there, Agent... What’s up?</Answer>
+				<Answer>Hi there, Agent... What’s going on?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there, sir... What’s up? What can I do for you?</Answer>
+				<Answer>Hey there, Agent... What’s up? What can I do for you?</Answer>
+				<Answer>Hi there, Agent... What’s going on? What can I do for you?</Answer>
+				<Answer>Uh, hey Agent...</Answer>
+				<Answer>Um... Hey sir...</Answer>
+				<Answer>Hello Agent?</Answer>
+				<Answer>Uh... Hi sir...</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Agent?</Answer>
+				<Answer>Um, what can I do for you, sir?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hey Agent... What can I do for you?</Answer>
+				<Answer>Hey sir... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hi there, Agent... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Uh... Hello Agent... What can I do for you?</Answer>
+				<Answer>Hello, sir... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you, sir?</Answer>
+				<Answer>Uh... What can I do for you, Agent?</Answer>
+				<Answer>Hey there... What can I do for you, sir?</Answer>
+				<Answer>Hey there, Agent... What can I do for you?</Answer>
+				<Answer>Uh... Is everything alright?</Answer>
+				<Answer>Is everything alright, Agent?</Answer>
+				<Answer>Uh... Is everything alright, sir?</Answer>
+				<Answer>Hey... Is everything alright?</Answer>
+				<Answer>Hey Agent... Is everything alright?</Answer>
+				<Answer>Hey sir... Is everything alright?</Answer>
+				<Answer>Hi there... Is everything alright?</Answer>
+				<Answer>Hi there, Agent... Is everything alright?</Answer>
+				<Answer>Hello there... Is everything alright?</Answer>
+				<Answer>Uh... Hello Agent... Is everything alright?</Answer>
+				<Answer>Hello sir... Is everything alright?</Answer>
+				<Answer>Uh, hey. Did I do something?</Answer>
+				<Answer>What’s this about?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>Yeah?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Agent?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>What do you sir, sir?</Answer>
+				<Answer>What do you sir, Agent?</Answer>
+				<Answer>Yeah? What do you need?</Answer>
+				<Answer>Yeah? What do you need, sir?</Answer>
+				<Answer>Yeah? What do you need, Agent?</Answer>
+				<Answer>Yeah? What do you want?</Answer>
+				<Answer>Yeah? What do you want, sir?</Answer>
+				<Answer>Yeah? What do you want, Agent?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Agent?</Answer>
+				<Answer>What am I being stopped for, exactly?</Answer>
+				<Answer>What am I being stopped for, Agent?</Answer>
+				<Answer>Why am I being stopped Agent?</Answer>
+				<Answer>Whatever man. Can you just tell me why you stopped me?</Answer>
+				<Answer>Yes?</Answer>
+				<Answer>Hello, "ociffer sir".</Answer>
+				<Answer>Whatever. Why did you stop me?</Answer>
+				<Answer>Whatever. Why the hell did you stop me?</Answer>
+				<Answer>Yeah? What the hell do you want?</Answer>
+				<Answer>What do you want now?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you want, Agent?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>Yeah? What do you need now?</Answer>
+				<Answer>Yeah? What’s your problem, sir?</Answer>
+				<Answer>Yeah? What do you want, Agent?</Answer>
+				<Answer>Yeah? What do you want now?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What do you want, Agent?</Answer>
+				<Answer>How can I help you, Agent?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Agent?</Answer>
+				<Answer>What the hell is it now?</Answer>
+				<Answer>What the hell do you need?</Answer>
+				<Answer>What the hell is your problem?</Answer>
+				<Answer>What the hell do you want, Agent?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What the hell is going on here?</Answer>
+				<Answer>What the hell do you need, Agent?</Answer>
+				<Answer>What the hell do you want from me?</Answer>
+				<Answer>What the hell is your deal, Agent?</Answer>
+				<Answer>What the hell is your problem, sir?</Answer>
+				<Answer>Why are you bothering me now?</Answer>
+				<Answer>Why are you bothering me, Agent?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Agent?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Agent?</Answer>
+				<Answer>Why are you bothering me, Agent?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Agent?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Agent.</Answer>
+				<Answer>Hey, Agent.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Agent?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Agent?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Agent?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh... Yes?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Agent?</Answer>
+				<Answer>Um, what can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>What do you sir, Agent?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Agent?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Agent?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Agent.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Agent?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Agent?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Agent?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Agent.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>How can I help you, Agent?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Agent?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Agent?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Agent?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Agent?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Agent?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Agent?</Answer>
+				<Answer>What can I do for you, sir?</Answer>		
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Agent.</Answer>
+				<Answer>Hey there, Agent.</Answer>
+				<Answer>Hi there, Agent.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Agent?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Agent?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Agent, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Agent, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Agent?</Answer>
+				<Answer>Hey, what’s up, Agent?</Answer>
+				<Answer>Hey Agent, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Agent?</Answer>
+				<Answer>Hello, what’s going on, Agent?</Answer>
+				<Answer>Hello Agent, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Agent, what’s up?</Answer>
+				<Answer>Hi there Agent, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Agent, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Agent, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Agent.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Agent.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Agent.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Agent?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Agent, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Agent, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Agent?</Answer>
+				<Answer>Hello Agent, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Agent, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Agent?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Agent, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Agent?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Agent, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Agent?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Agent, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Agent?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Agent?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Agent, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Agent, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Agent?</Answer>
+				<Answer>Hello Agent, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Agent?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+</PedTo>
+<IllegalItem question="  Hello, I'm Deputy ___ with the ___ Sheriff's Department."> <!-- 3rd --> 
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Deputy?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Deputy.</Answer>
+				<Answer>Hey, Deputy.</Answer>
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Deputy.</Answer>
+				<Answer>Hey there, Deputy.</Answer>
+				<Answer>Hi there, Deputy.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Deputy?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Deputy?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Deputy, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Deputy, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Deputy?</Answer>
+				<Answer>Hey, what’s up, Deputy?</Answer>
+				<Answer>Hey Deputy, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Deputy?</Answer>
+				<Answer>Hello, what’s going on, Deputy?</Answer>
+				<Answer>Hello Deputy, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Deputy, what’s up?</Answer>
+				<Answer>Hi there Deputy, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Deputy, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Deputy, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Deputy.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Deputy.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Deputy.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Deputy?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Deputy, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Deputy, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Deputy?</Answer>
+				<Answer>Hello Deputy, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Deputy, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Deputy?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Deputy, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Deputy?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Deputy, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Deputy?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Deputy, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Deputy?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Deputy?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Deputy, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Deputy, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Deputy?</Answer>
+				<Answer>Hello Deputy, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Deputy?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh, hello...</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>*COUGH* Hello.</Answer>
+				<Answer>Uh, hello Deputy.</Answer>
+				<Answer>Uh...Yes?</Answer>
+				<Answer>*COUGH* *Silence.*</Answer>
+				<Answer>Uh, hello. What am I being stopped for, exactly?</Answer>
+				<Answer>Um, hello. What am I being stopped for, Deputy?</Answer>
+				<Answer>Uh, hello Deputy.</Answer>
+				<Answer>Uh, hello. What am I being stopped for, Deputy?</Answer>
+				<Answer>Uh, hello.</Answer>
+				<Answer>Hi...</Answer>
+				<Answer>Um, hey.</Answer>
+				<Answer>Uh, hello there.</Answer>
+				<Answer>Hi there...</Answer>
+				<Answer>Hey there...</Answer>
+				<Answer>Uh, hello, sir.</Answer>
+				<Answer>Hello Deputy...</Answer>
+				<Answer>Hey, Deputy...</Answer>
+				<Answer>Uh, hello there, sir.</Answer>
+				<Answer>Hello there, Deputy...</Answer>
+				<Answer>Hey there, Deputy...</Answer>
+				<Answer>Hi there, Deputy...</Answer>
+				<Answer>Uh, hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Deputy...?</Answer>
+				<Answer>Hi there... What’s up?</Answer>
+				<Answer>Hey... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on?</Answer>
+				<Answer>Hi there... What’s going on?</Answer>
+				<Answer>Hey there... What’s going on, Deputy?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Hi... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hey there... What can I do for you?</Answer>
+				<Answer>Uh, hello Deputy... What can I do for you?</Answer>
+				<Answer>Uh, hello there, Deputy... What can I do for you?</Answer>
+				<Answer>Hey... What’s up, Deputy?</Answer>
+				<Answer>Uh, hey Deputy... What can I do for you?</Answer>
+				<Answer>Hey... What’s going on, Deputy?</Answer>
+				<Answer>Hello... What’s going on, Deputy?</Answer>
+				<Answer>Uh... Hey sir, what’s up?</Answer>
+				<Answer>Hey... What’s going on, sir?</Answer>
+				<Answer>Hey there, sir... What’s up?</Answer>
+				<Answer>Hey there, Deputy... What’s up?</Answer>
+				<Answer>Hi there, Deputy... What’s going on?</Answer>
+				<Answer>Hey, what’s going on, sir...? What can I do for you?</Answer>
+				<Answer>Hey there, sir... What’s up? What can I do for you?</Answer>
+				<Answer>Hey there, Deputy... What’s up? What can I do for you?</Answer>
+				<Answer>Hi there, Deputy... What’s going on? What can I do for you?</Answer>
+				<Answer>Uh, hey Deputy...</Answer>
+				<Answer>Um... Hey sir...</Answer>
+				<Answer>Hello Deputy...?</Answer>
+				<Answer>Uh... Hi sir...</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Deputy?</Answer>
+				<Answer>Um, what can I do for you, sir...?</Answer>
+				<Answer>Hey... What can I do for you?</Answer>
+				<Answer>Hey Deputy... What can I do for you?</Answer>
+				<Answer>Hey sir... What can I do for you?</Answer>
+				<Answer>Hi there... What can I do for you?</Answer>
+				<Answer>Hi there, Deputy... What can I do for you?</Answer>
+				<Answer>Hello there... What can I do for you?</Answer>
+				<Answer>Uh... Hello Deputy... What can I do for you?</Answer>
+				<Answer>Hello, sir... What can I do for you?</Answer>
+				<Answer>Hey... What can I do for you, sir?</Answer>
+				<Answer>Uh... What can I do for you, Deputy?</Answer>
+				<Answer>Hey there... What can I do for you, sir?</Answer>
+				<Answer>Hey there, Deputy... What can I do for you?</Answer>
+				<Answer>Uh... Is everything alright?</Answer>
+				<Answer>Is everything alright, Deputy...?</Answer>
+				<Answer>Uh... Is everything alright, sir?</Answer>
+				<Answer>Hey... Is everything alright?</Answer>
+				<Answer>Hey Deputy... Is everything alright?</Answer>
+				<Answer>Hey sir... Is everything alright?</Answer>
+				<Answer>Hi there... Is everything alright?</Answer>
+				<Answer>Hi there, Deputy... Is everything alright?</Answer>
+				<Answer>Hello there... Is everything alright?</Answer>
+				<Answer>Uh... Hello Deputy... Is everything alright?</Answer>
+				<Answer>Hello sir... Is everything alright?</Answer>
+				<Answer>Uh, hey. Did I do something?</Answer>
+				<Answer>What’s this about?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>Yeah?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Deputy?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>What do you sir, sir?</Answer>
+				<Answer>What do you sir, Deputy?</Answer>
+				<Answer>Yeah? What do you need?</Answer>
+				<Answer>Yeah? What do you need, sir?</Answer>
+				<Answer>Yeah? What do you need, Deputy?</Answer>
+				<Answer>Yeah? What do you want?</Answer>
+				<Answer>Yeah? What do you want, sir?</Answer>
+				<Answer>Yeah? What do you want, Deputy?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Deputy?</Answer>
+				<Answer>What am I being stopped for, exactly?</Answer>
+				<Answer>What am I being stopped for, Deputy?</Answer>
+				<Answer>Why am I being stopped Deputy?</Answer>
+				<Answer>Whatever man. Can you just tell me why you stopped me?</Answer>
+				<Answer>Yes?</Answer>
+				<Answer>Hello, "ociffer sir".</Answer>
+				<Answer>Whatever. Why did you stop me?</Answer>
+				<Answer>Whatever. Why the hell did you stop me?</Answer>
+				<Answer>Yeah? What the hell do you want?</Answer>
+				<Answer>What do you want now?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you want, Deputy?</Answer>
+				<Answer>What do you want?</Answer>
+				<Answer>Yeah? What do you need now?</Answer>
+				<Answer>Yeah? What’s your problem, sir?</Answer>
+				<Answer>Yeah? What do you want, Deputy?</Answer>
+				<Answer>Yeah? What do you want now?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What do you want, Deputy?</Answer>
+				<Answer>How can I help you, Deputy?</Answer>
+				<Answer>Yeah? How can I help you, sir?</Answer>
+				<Answer>Yeah? How can I help you, Deputy?</Answer>
+				<Answer>What the hell is it now?</Answer>
+				<Answer>What the hell do you need?</Answer>
+				<Answer>What the hell is your problem?</Answer>
+				<Answer>What the hell do you want, Deputy?</Answer>
+				<Answer>What the hell do you want, sir?</Answer>
+				<Answer>What the hell is going on here?</Answer>
+				<Answer>What the hell do you need, Deputy?</Answer>
+				<Answer>What the hell do you want from me?</Answer>
+				<Answer>What the hell is your deal, Deputy?</Answer>
+				<Answer>What the hell is your problem, sir?</Answer>
+				<Answer>Why are you bothering me now?</Answer>
+				<Answer>Why are you bothering me, Deputy?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Deputy?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Why are you bothering me, Deputy?</Answer>
+				<Answer>Why are you bothering me, Deputy?</Answer>
+				<Answer>Why are you bothering me, sir?</Answer>
+				<Answer>Hello there.</Answer>
+				<Answer>Hi there.</Answer>
+				<Answer>Hey there.</Answer>
+				<Answer>What’s up?</Answer>
+				<Answer>What’s up, sir?</Answer>
+				<Answer>What’s up, Deputy?</Answer>
+				<Answer>Hello, sir.</Answer>
+				<Answer>Hello Deputy.</Answer>
+				<Answer>Hey, Deputy.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Deputy?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Deputy?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Deputy?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>Uh... Yes?</Answer>
+				<Answer>Uh, what can I do for you?</Answer>
+				<Answer>Uh... Hello, what can I do for you?</Answer>
+				<Answer>Did I... Uh, did I do something?</Answer>
+				<Answer>Uh... What do you need?</Answer>
+				<Answer>Uh... What can I do for you, Deputy?</Answer>
+				<Answer>Um, what can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is there a problem?</Answer>
+				<Answer>Am I in trouble?</Answer>
+				<Answer>What’s going on?</Answer>
+				<Answer>What do you sir, Deputy?</Answer>
+				<Answer>What do you need, sir?</Answer>
+				<Answer>What do you need, Deputy?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Deputy?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Deputy.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Deputy?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Deputy?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>How can I help you, Deputy?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>It's nice to meet you.</Answer>
+				<Answer>Nice to meet you.</Answer>
+				<Answer>It's nice to meet you, Deputy.</Answer>
+				<Answer>It's nice to meet you, sir.</Answer>
+				<Answer>How can I help you, Deputy?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you, Deputy?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Deputy?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Deputy?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Deputy?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Deputy?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>What can I do for you, Deputy?</Answer>
+				<Answer>What can I do for you, sir?</Answer>		
+				<Answer>Hello there, sir.</Answer>
+				<Answer>Hello there, Deputy.</Answer>
+				<Answer>Hey there, Deputy.</Answer>
+				<Answer>Hi there, Deputy.</Answer>
+				<Answer>Hey, what’s up?</Answer>
+				<Answer>Hey, what’s up, Deputy?</Answer>
+				<Answer>Hi there, what’s up?</Answer>
+				<Answer>Hi there, what’s up, Deputy?</Answer>
+				<Answer>Hey, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>Hi there, what’s going on?</Answer>
+				<Answer>Hey there, what’s going on?</Answer>
+				<Answer>What can I do for you?</Answer>
+				<Answer>Hello, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hello Deputy, what can I do for you?</Answer>
+				<Answer>Hello there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, Deputy, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you, Deputy?</Answer>
+				<Answer>Hey, what’s up, Deputy?</Answer>
+				<Answer>Hey Deputy, what can I do for you?</Answer>
+				<Answer>Hey, what’s going on, Deputy?</Answer>
+				<Answer>Hello, what’s going on, Deputy?</Answer>
+				<Answer>Hello Deputy, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir?</Answer>
+				<Answer>Hey sir, what's up?</Answer>
+				<Answer>Hey, what’s going on, sir?</Answer>
+				<Answer>Hey there sir, what’s up?</Answer>
+				<Answer>Hey there Deputy, what’s up?</Answer>
+				<Answer>Hi there Deputy, what’s going on?</Answer>
+				<Answer>Hey, what's up, sir? What can I do for you?</Answer>
+				<Answer>Hey sir, what's up? What can I do for you?</Answer>
+				<Answer>Hey, what’s going on, sir? What can I do for you?</Answer>
+				<Answer>Hey there sir, what’s up? What can I do for you?</Answer>
+				<Answer>Hey there Deputy, what’s up? What can I do for you?</Answer>
+				<Answer>Hi there Deputy, what’s going on? What can I do for you?</Answer>
+				<Answer>Hey Deputy.</Answer>
+				<Answer>Hey sir.</Answer>
+				<Answer>Hello Deputy.</Answer>
+				<Answer>Hello sir.</Answer>
+				<Answer>Hi Deputy.</Answer>
+				<Answer>Hi sir.</Answer>
+				<Answer>Did I do something?</Answer>
+				<Answer>What do you need?</Answer>
+				<Answer>How can I help you?</Answer>
+				<Answer>What can I do for you, Deputy?</Answer>
+				<Answer>What can I do for you, sir?</Answer>
+				<Answer>Hey, what can I do for you?</Answer>
+				<Answer>Hey Deputy, what can I do for you?</Answer>
+				<Answer>Hey sir, what can I do for you?</Answer>
+				<Answer>Hi there, what can I do for you?</Answer>
+				<Answer>Hi there, Deputy, what can I do for you?</Answer>
+				<Answer>Hi there, sir, what can I do for you?</Answer>
+				<Answer>Hello there, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you, Deputy?</Answer>
+				<Answer>Hello Deputy, what can I do for you?</Answer>
+				<Answer>Hello sir, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you sir?</Answer>
+				<Answer>Hey Deputy, what can I do for you?</Answer>
+				<Answer>Hey, what can I do for you Deputy?</Answer>
+				<Answer>Hi, what can I do for you sir?</Answer>
+				<Answer>Hi Deputy, what can I do for you?</Answer>
+				<Answer>Hi, what can I do for you Deputy?</Answer>
+				<Answer>Hello, what can I do for you sir?</Answer>
+				<Answer>Hello Deputy, what can I do for you?</Answer>
+				<Answer>Hello, what can I do for you Deputy?</Answer>
+				<Answer>Hey there, what can I do for you sir?</Answer>
+				<Answer>Hey there Deputy, what can I do for you?</Answer>
+				<Answer>Hey there, what can I do for you Deputy?</Answer>
+				<Answer>Is everything alright?</Answer>
+				<Answer>Is everything alright, Deputy?</Answer>
+				<Answer>Is everything alright, sir?</Answer>
+				<Answer>Hey, is everything alright?</Answer>
+				<Answer>Hey Deputy, is everything alright?</Answer>
+				<Answer>Hey sir, is everything alright?</Answer>
+				<Answer>Hi there, is everything alright?</Answer>
+				<Answer>Hi there, Deputy, is everything alright?</Answer>
+				<Answer>Hi there, sir, is everything alright?</Answer>
+				<Answer>Hello there, is everything alright?</Answer>
+				<Answer>Hello, is everything alright, Deputy?</Answer>
+				<Answer>Hello Deputy, is everything alright?</Answer>
+				<Answer>Hello sir, is everything alright?</Answer>
+				<Answer>How can I help you, Deputy?</Answer>
+				<Answer>How can I help you, sir?</Answer>
+</IllegalItem>
+</PedAnswers>
+<!-- STOP THE PED: Realistic Conversations Update V 2.0 by Original Xbox Museum --> 
